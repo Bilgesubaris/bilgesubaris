@@ -16,12 +16,3 @@ I’m a 4th-year Software Engineering student with a strong passion for front-en
 
 ---
 
-### 🚀 Projects
-
-- 🕒 **Pomodoro Timer** – A time management web & mobile app  
-- 📺 **TVision+** – A movie and TV series recommendation/search app  
-- 💸 **Financial Tracker** – Web system for investment suggestions  
-- 🌍 **Erasmus Community Portal** – Member registration and management system
-
----
-
