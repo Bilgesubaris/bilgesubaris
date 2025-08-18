@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Bilgesu Barış 👋</h1>
+<h1 align="center">Hello, I'm Bilgesu Barış 👋</h1>
 
 
 I’m a 4th-year Software Engineering student with a strong passion for front-end technologies and mobile development.
