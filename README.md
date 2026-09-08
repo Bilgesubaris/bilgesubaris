@@ -159,7 +159,7 @@
   <a href="https://github.com/Bilgesubaris">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="http:// linkedin.com/in/bilgesubarış-57b223252">
+  <a href="https://www.linkedin.com/in/bilgesu-barış-57b223252/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
