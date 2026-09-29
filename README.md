@@ -64,10 +64,11 @@
 
 ### 🚀 Featured Projects
 
+* 🤖 **AI Image Detector** — AI-powered image classification project developed with Python, PyTorch and Hugging Face Vision Transformer (ViT) to analyze and classify images as AI-generated or real.
 * 🎬 **TVision+** — Movie and TV series platform built with JavaScript, Node.js, PostgreSQL and TMDB API.
 * 🌍 **Erasmus Experience** — Web and mobile platform designed to help students prepare for Erasmus applications and discover Erasmus experiences.
 * 🏥 **Hospital Automation** — Desktop application developed for managing hospital-related operations.
-* 💰 **Financial Recommendation System** — Web-based project focused on financial recommendations and user interaction.
+
 
 ---
 
